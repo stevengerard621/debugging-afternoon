@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './NavBar.css';
-import Logo from './../dev-mountain-logo.png'
+import Logo from './dev-mountain-logo.png'
 
 class NavBar extends Component {
   render() {
@@ -25,3 +25,5 @@ class NavBar extends Component {
 }
 
 export default NavBar;
+
+// ./../dev-mountain-logo.png
